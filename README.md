@@ -1,3 +1,3 @@
-# segmentation
+# Segmentation
 
 StarDist and Cellpose differences
