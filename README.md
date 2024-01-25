@@ -1,6 +1,6 @@
-# Segmentation
+# Segmentation on a CT image
 
-StarDist and Cellpose differences
+StarDist and Cellpose differences 
 
 ![image](https://github.com/beyza17/segmentation/assets/117541981/951700c7-0a9c-4fd5-bf52-8c6663b9e59f)
 
